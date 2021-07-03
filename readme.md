@@ -1,7 +1,11 @@
-{
-      https://safkatjaman.github.io/Excursion-Project/ -> Excursion (Product Landing Page)
-      https://github.com/safkatjaman/Excursion-Project -> Repo -> Excursion
-}
+# <div align='center'>Projects Done So Far</div>
+
+---
+### Excursion (Product Landing Page)
+```
+      https://safkatjaman.github.io/Excursion-Project/
+      https://github.com/safkatjaman/Excursion-Project -> Repo
+```
 
 {
       https://github.com/safkatjaman/Mixed-Messages -> Repo -> Mixed Messages
