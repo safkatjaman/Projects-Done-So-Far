@@ -311,3 +311,10 @@ https://github.com/safkatjaman/Message-Encoder-Decoder -> Repo -> Message Mixer
 ```
 https://github.com/safkatjaman/Find-Your-Hat -> Repo -> Find Your Hat
 ```
+
+### Business Outfitted Bob
+```
+https://github.com/safkatjaman/Business-Outfitted-Bob -> Repo -> Business Outfitted Bob
+https://safkatjaman.github.io/Business-Outfitted-Bob/ -> Business Outfitted Bob
+```
+
