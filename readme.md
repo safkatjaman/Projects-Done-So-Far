@@ -318,3 +318,8 @@ https://github.com/safkatjaman/Business-Outfitted-Bob -> Repo -> Business Outfit
 https://safkatjaman.github.io/Business-Outfitted-Bob/ -> Business Outfitted Bob
 ```
 
+### Animal Fun Facts
+```
+https://github.com/safkatjaman/Animal-Fun-Facts -> Repo -> Animal Fun Facts
+https://safkatjaman.github.io/Animal-Fun-Facts/ -> Animal Fun Facts
+```
